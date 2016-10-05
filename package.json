@@ -39,7 +39,7 @@
     "postversion": "git push origin master && git push --tags"
   },
   "dependencies": {
-    "dragula": "3.7.1"
+    "dragula": "git://github.com/invatechs/dragula.git"
   },
   "peerDependencies": {
     "@angular/common": "^2.0.0-rc.1",
